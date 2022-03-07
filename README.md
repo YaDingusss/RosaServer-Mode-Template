@@ -4,7 +4,7 @@ A template for a SubRosa Server
 ## PLEASE READ THIS!!!!!
 
 
-This is a template to get you familliar with the basics of RosaServer. You are free to use the template as a basis for your gamemodes, or just to learn
+This is a template to get you familliar with the basics of a RosaServer mode file. You are free to use the template as a basis for your gamemodes, or just to learn.
 
 
 
